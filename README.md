@@ -1,16 +1,39 @@
-### Hi there 👋
+### Jeonghyeon Park / dotsnangles
 
-<!--
-**dotsnangles/dotsnangles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:pray: I believe that science and technologies are open to anyone who wants them and meant for those who need them.  
+:mailbox_with_mail: dotsnangles@gmail.com
 
-Here are some ideas to get you started:
+### Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PyTorch, Tensorflow, Scikit-learn, Huggingface, Sentence-Transformers, Faiss, Gensim, Pandas, OpenCV, NumPy, SciPy, SymPy, Matplotlib, BeautifulSoup, Scrapy, Selenium, Django, React, etc.
+
+#### finished a 3 months deep learning bootcamp in Seoul recently.
+
+- **Text Mining and ML**
+- Image Classification
+- Object Detection
+- Object Segmentation
+- **RNN / GRU / LSTM / Attention**
+- **NLP with Transformers**
+- Automatic Speech Recognition
+- Text to Speech
+
+#### now going through NLP projects in a team to enhance and refine the skills and knowledge.
+
+### Interested in
+
+- all the NLP downstream tasks utilizing transformer models
+- sentence embedding, semantic search, IR system, etc.
+- practical deep learning applications
+
+### Currently working on
+
+- making jokes :monkey_face:
+- skateboarding :frog:
+- having a nice tea time :bird:
+
+<!-- <div align='right'>
+    <img src="https://github-readme-stats.vercel.app/api?username=dotsnangles&theme=dark&show_icons=true" alt="HTML tutorial" style="width:px;height:135px;">
+</div> -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
