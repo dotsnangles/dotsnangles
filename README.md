@@ -1,5 +1,7 @@
 ### Jeonghyeon Park / dotsnangles
 
+:mortar_board: I studied Korean language and literature when I was a uni student.
+
 :pray: I believe that science and technologies are open to anyone who wants them and meant for those who need them.  
 :mailbox_with_mail: dotsnangles@gmail.com
 
