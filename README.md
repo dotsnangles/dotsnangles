@@ -1,8 +1,9 @@
 ### Jeonghyeon Park / dotsnangles
 
-:mortar_board: I studied Korean language and literature when I was a uni student.
+:mortar_board: studied Korean language and literature.
+:books: use potery books as coasters.
 
-:pray: I believe that science and technologies are open to anyone who wants them and meant for those who need them.  
+:pray: believe that science and technologies are open to anyone and meant for those who need them.  
 :mailbox_with_mail: dotsnangles@gmail.com
 
 ### Experiences
