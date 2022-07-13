@@ -1,6 +1,6 @@
 ### Jeonghyeon Park / dotsnangles
 
-:mortar_board: studied Korean language and literature.
+:mortar_board: studied Korean language and literature.  
 :books: use potery books as coasters.
 
 :pray: believe that science and technologies are open to anyone and meant for those who need them.  
@@ -10,7 +10,7 @@
 
 PyTorch, Tensorflow, Scikit-learn, Huggingface, Sentence-Transformers, Faiss, Gensim, Pandas, OpenCV, NumPy, SciPy, SymPy, Matplotlib, BeautifulSoup, Scrapy, Selenium, Django, React, etc.
 
-#### finished a 3 months deep learning bootcamp in Seoul recently.
+#### recently finished a 3 months deep learning bootcamp in Seoul.
 
 - **Text Mining and ML**
 - Image Classification
