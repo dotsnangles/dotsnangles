@@ -10,7 +10,7 @@
 
 - all the NLP downstream tasks utilizing transformer models
 - sentence embedding, semantic search, IR system, etc.
-- practical deep learning applications
+- helpful deep learning applications
 
 ### Experiences
 
