@@ -6,6 +6,12 @@
 :pray: believe that science and technologies are open to anyone and meant for those who need them.  
 :mailbox_with_mail: dotsnangles@gmail.com
 
+### Interested in
+
+- all the NLP downstream tasks utilizing transformer models
+- sentence embedding, semantic search, IR system, etc.
+- practical deep learning applications
+
 ### Experiences
 
 PyTorch, Tensorflow, Scikit-learn, Huggingface, Sentence-Transformers, Faiss, Gensim, Pandas, OpenCV, NumPy, SciPy, SymPy, Matplotlib, BeautifulSoup, Scrapy, Selenium, Django, React, etc.
@@ -33,12 +39,6 @@ PyTorch, Tensorflow, Scikit-learn, Huggingface, Sentence-Transformers, Faiss, Ge
 - [vanila-transformer-implementation](https://github.com/dotsnangles/vanila-transformer-implementation) (20220620-24)
 - [text-summarisation-with-BART](https://github.com/dotsnangles/text-summarisation-with-BART) (20220613-19)
 - [text-classification-with-BERT](https://github.com/dotsnangles/text-classification-with-BERT) (20220606-12)
-
-### Interested in
-
-- all the NLP downstream tasks utilizing transformer models
-- sentence embedding, semantic search, IR system, etc.
-- practical deep learning applications
 
 ### Currently working on
 
