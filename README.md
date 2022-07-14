@@ -28,6 +28,12 @@ PyTorch, Tensorflow, Scikit-learn, Huggingface, Sentence-Transformers, Faiss, Ge
 
 #### now going through NLP projects in a team to enhance and refine the skills and knowledge.
 
+- [retrieval-based-chatbot-with-Poly-Encoder](https://github.com/dotsnangles/retrieval-based-chatbot-with-Poly-Encoder) (20220701-10)
+- [Poly-Encoder](https://github.com/dotsnangles/Poly-Encoder) (20220625-30)
+- [vanila-transformer-implementation](https://github.com/dotsnangles/vanila-transformer-implementation) (20220620-24)
+- [text-summarisation-with-BART](https://github.com/dotsnangles/text-summarisation-with-BART) (20220613-19)
+- [text-classification-with-BERT](https://github.com/dotsnangles/text-classification-with-BERT) (20220606-12)
+
 ### Interested in
 
 - all the NLP downstream tasks utilizing transformer models
