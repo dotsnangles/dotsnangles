@@ -13,11 +13,16 @@ PyTorch, Tensorflow, Scikit-learn, Huggingface, Sentence-Transformers, Faiss, Ge
 #### recently finished a 3 months deep learning bootcamp in Seoul.
 
 - **Text Mining and ML**
+    - [text-mining-with-ML](https://github.com/dotsnangles/text-mining-with-ML) (202203-04)
 - Image Classification
+    - [image-classification-with-ResNet](https://github.com/dotsnangles/image-classification-with-ResNet) (202204)
 - Object Detection
+    - [image-detection-with-YOLOv5](https://github.com/dotsnangles/image-detection-with-YOLOv5) (202205)
 - Object Segmentation
 - **RNN / GRU / LSTM / Attention**
+    - [LSTM-Seq2Seq-with-Attention](https://github.com/dotsnangles/LSTM-Seq2Seq-with-Attention) (202205)
 - **NLP with Transformers**
+    - [poetry-generator-with-GPT2](https://github.com/dotsnangles/poetry-generator-with-GPT2) (202205-06)
 - Automatic Speech Recognition
 - Text to Speech
 
