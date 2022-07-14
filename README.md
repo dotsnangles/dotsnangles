@@ -12,7 +12,7 @@ PyTorch, Tensorflow, Scikit-learn, Huggingface, Sentence-Transformers, Faiss, Ge
 
 #### recently finished a 3 months deep learning bootcamp in Seoul.
 
-- **Text Mining and ML**
+- **Text Mining with ML**
     - [text-mining-with-ML](https://github.com/dotsnangles/text-mining-with-ML) (202203-04)
 - Image Classification
     - [image-classification-with-ResNet](https://github.com/dotsnangles/image-classification-with-ResNet) (202204)
