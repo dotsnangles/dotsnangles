@@ -14,7 +14,7 @@
 
 ### Experiences
 
-PyTorch, Tensorflow, Scikit-learn, Huggingface, Sentence-Transformers, Faiss, Gensim, Pandas, OpenCV, NumPy, SciPy, SymPy, Matplotlib, BeautifulSoup, Scrapy, Selenium, Django, React, etc.
+PyTorch, Tensorflow, Scikit-learn, Huggingface, Sentence-Transformers, Faiss, Gensim, Pandas, OpenCV, NumPy, SciPy, SymPy, Matplotlib, BeautifulSoup, Scrapy, Selenium, Flask, Django, MySQL, Vue, React, etc.
 
 #### recently finished a 3 months deep learning bootcamp in Seoul.
 
