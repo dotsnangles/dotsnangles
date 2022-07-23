@@ -1,6 +1,6 @@
 ### Jeonghyeon Park / dotsnangles
 
-:mortar_board: studied Korean language and literature.  
+:mortar_board: studied Korean Language and Literature.  
 :books: use potery books as coasters.  
 :pray: believe that science and technologies are open to anyone and meant for those who need them.  
 :mailbox_with_mail: dotsnangles@gmail.com
@@ -16,13 +16,11 @@
 
 #### **ML/DL / Web Crawling / Web Application Frameworks and Libraries**  
 
-```
-PyTorch, Tensorflow, Huggingface, Sentence-Transformers, MMDetection  
-Scikit-learn, Faiss, Gensim, OpenCV  
-NumPy, Pandas, SciPy, SymPy, Matplotlib, Seaborn  
-BeautifulSoup, Scrapy, Selenium  
+PyTorch, Tensorflow, Huggingface, Sentence-Transformers, MMDetection,  
+Scikit-learn, Faiss, Gensim, OpenCV,  
+NumPy, Pandas, SciPy, SymPy, Matplotlib, Seaborn,  
+BeautifulSoup, Scrapy, Selenium,  
 Flask, Django, MySQL, PostgreSQL, Vue, React
-```
 
 #### recently finished a 3 months deep learning bootcamp in Seoul.
 
