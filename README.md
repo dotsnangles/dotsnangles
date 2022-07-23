@@ -1,18 +1,18 @@
-## Jeonghyeon Park / dotsnangles
+### Jeonghyeon Park / dotsnangles
 
 :mortar_board: studied Korean language and literature.  
 :books: use potery books as coasters.  
 :pray: believe that science and technologies are open to anyone and meant for those who need them.  
 :mailbox_with_mail: dotsnangles@gmail.com
 
-## Interested in
+### Interested in
 
 - all the NLP downstream tasks utilizing transformer models
 - sentence embedding, semantic search, IR system, etc.
 - data mining through object detection and segmentation
 - helpful deep learning applications
 
-## Experiences
+### Experiences
 
 #### **ML/DL / Web Crawling / Web Application Frameworks and Libraries**  
 
@@ -22,7 +22,7 @@
 >BeautifulSoup, Scrapy, Selenium  
 >Flask, Django, MySQL, PostgreSQL, Vue, React
 
-### recently finished a 3 months deep learning bootcamp in Seoul.
+#### recently finished a 3 months deep learning bootcamp in Seoul.
 
 - **Text Mining with ML** - [text-mining-with-ML](https://github.com/dotsnangles/text-mining-with-ML) (202203-04)
 - **Image Classification** - [image-classification-with-ResNet](https://github.com/dotsnangles/image-classification-with-ResNet) (202204)
@@ -33,7 +33,7 @@
 - Automatic Speech Recognition
 - Text to Speech
 
-### now going through deep learning projects in teams to enhance and refine the skills and knowledge.
+#### now going through deep learning projects in teams to enhance and refine the skills and knowledge.
 
 - [retrieval-based-chatbot-with-Poly-Encoder](https://github.com/dotsnangles/retrieval-based-chatbot-with-Poly-Encoder) (20220701-10)
 - [Poly-Encoder](https://github.com/dotsnangles/Poly-Encoder) (20220625-30)
@@ -41,7 +41,7 @@
 - [text-summarisation-with-BART](https://github.com/dotsnangles/text-summarisation-with-BART) (20220613-19)
 - [text-classification-with-BERT](https://github.com/dotsnangles/text-classification-with-BERT) (20220606-12)
 
-## Currently working on
+### Currently working on
 
 - making jokes :monkey_face:
 - skateboarding :frog:
