@@ -20,7 +20,7 @@
 - Scikit-learn, Faiss, Gensim, OpenCV,  
 - NumPy, Pandas, SciPy, SymPy, Matplotlib, Seaborn,  
 - BeautifulSoup, Scrapy, Selenium,  
-- Flask, Django, MySQL, PostgreSQL, Vue, React
+- Flask, Django, MySQL, PostgreSQL, SQLAlchemy
 
 #### recently finished a 3 months deep learning bootcamp in Seoul.
 
