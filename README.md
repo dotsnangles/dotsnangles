@@ -35,6 +35,7 @@
 
 #### now going through deep learning projects in teams to enhance and refine the skills and knowledge.
 
+- [NMT-with-transformers](https://github.com/dotsnangles/NMT-with-transformers) (20220801-)
 - [backend-api-for-chatbot-with-Poly-Encoder](https://github.com/dotsnangles/backend-api-for-chatbot-with-Poly-Encoder) (20220725-28)
 - [retrieval-based-chatbot-with-Poly-Encoder](https://github.com/dotsnangles/retrieval-based-chatbot-with-Poly-Encoder) (20220701-10)
 - [Poly-Encoder](https://github.com/dotsnangles/Poly-Encoder) (20220625-30)
