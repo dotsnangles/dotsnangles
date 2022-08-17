@@ -19,7 +19,7 @@
 ### Experiences
 
 #### NLP
-- [NMT with Transformers](https://github.com/dotsnangles/NMT-with-transformers) (20220801-)
+- [NMT with Transformers](https://github.com/dotsnangles/NMT-with-transformers) (20220801-) (postponed)
 - [Backend API for Chatbot with Poly Encoder](https://github.com/dotsnangles/backend-api-for-chatbot-with-Poly-Encoder) (20220725-28)
 - [Retrieval-based Chatbot with Poly Encoder](https://github.com/dotsnangles/retrieval-based-chatbot-with-Poly-Encoder) (20220701-10)
 - [Poly Encoder](https://github.com/dotsnangles/Poly-Encoder) (20220625-30)
