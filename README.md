@@ -1,4 +1,4 @@
-### Jeonghyeon Park / Deep Learning Engineer
+### Jeonghyeon Park / NLP Engineer
 
 🙏 I believe that science and technologies are open to anyone and meant for those who need them.  
 📬 dotsnangles@gmail.com
