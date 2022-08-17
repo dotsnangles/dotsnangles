@@ -1,6 +1,6 @@
 ### Jeonghyeon Park / dotsnangles
 
-🙏 I believe that science and technologies are open to anyone and meant for those who need them.
+🙏 I believe that science and technologies are open to anyone and meant for those who need them.  
 📬 dotsnangles@gmail.com
 
 ### Interested in
