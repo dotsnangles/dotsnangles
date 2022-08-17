@@ -1,7 +1,8 @@
 ### Jeonghyeon Park / Deep Learning Engineer
 
-🙏 I believe that science and technologies are open to anyone and meant for those who need them.  
-📬 dotsnangles@gmail.com
+:pray: I believe that science and technologies are open to anyone and meant for those who need them.  
+:mailbox_with_mail: dotsnangles@gmail.com  
+:open_file_folder: [2022 Portfolio is here.](https://github.com/dotsnangles/2022-Portfolio)
 
 ### Interested in
 
