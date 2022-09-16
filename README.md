@@ -4,6 +4,11 @@
 :mailbox_with_mail: dotsnangles@gmail.com  
 :open_file_folder: [2022 Portfolio is here.](https://github.com/dotsnangles/2022-Portfolio)
 
+### Currently
+
+- studying DSA and elementry mathematics for ML/DL
+- the repos are pinned down there
+
 ### Interested in
 
 - all the NLP downstream tasks utilizing transformer models
