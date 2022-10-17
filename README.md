@@ -6,8 +6,9 @@
 
 ### Currently
 
+- gaining experience as an intern (trying to contribute as much as I can do)
 - studying DSA and elementry mathematics for ML/DL
-- the repos are pinned down there
+- doing more NLP projects
 
 ### Interested in
 
@@ -25,6 +26,8 @@
 ### Experiences
 
 #### NLP
+- [NER with ELECTRA](https://github.com/dotsnangles/NER-with-ELECTRA) (20221017-)
+- Aspect-based Sentiment Analysis (on-going competition) (20221004-)
 - [NMT with Transformers](https://github.com/dotsnangles/NMT-with-transformers) (20220801-) (postponed)
 - [Backend API for Chatbot with Poly Encoder](https://github.com/dotsnangles/backend-api-for-chatbot-with-Poly-Encoder) (20220725-28)
 - [Retrieval-based Chatbot with Poly Encoder](https://github.com/dotsnangles/retrieval-based-chatbot-with-Poly-Encoder) (20220701-10)
