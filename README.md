@@ -26,7 +26,7 @@
 ### Experiences
 
 #### NLP
-- [Auxiliary Sequence Tagger for Causal Relation Extraction]([https://github.com/dotsnangles/causal-relation-extractor](https://github.com/dotsnangles/auxiliary-sequence-tagger-for-causal-relation-extraction)) (20221017-)
+- [Auxiliary Sequence Tagger for Causal Relation Extraction](https://github.com/dotsnangles/auxiliary-sequence-tagger-for-causal-relation-extraction)) (20221017-)
 - Aspect-based Sentiment Analysis (on-going competition) (20221004-)
 - [NMT with Transformers](https://github.com/dotsnangles/NMT-with-transformers) (20220801-) (postponed)
 - [Backend API for Chatbot with Poly Encoder](https://github.com/dotsnangles/backend-api-for-chatbot-with-Poly-Encoder) (20220725-28)
