@@ -6,16 +6,16 @@
 
 ### Currently
 
-- gaining experience as an intern (trying to contribute as much as I can do)
-- studying DSA and elementry mathematics for ML/DL
+- gaining experiences as an intern (trying to contribute as much as I can do)
+- studying DSA and mathematics for ML/DL
 - doing more NLP projects
 
 ### Interested in
 
 - all the NLP downstream tasks utilizing transformer models
 - sentence embedding, semantic search, IR system, etc.
-- data mining through object detection and segmentation
-- helpful deep learning applications
+- data mining for better worlds and lives
+- helpful and fun deep learning applications
 
 ### Toolbox
 - AWS EC2, WSL2, Colab, Ubuntu, Git/Github, Papermill, WandB
