@@ -26,6 +26,7 @@
 ### Experiences
 
 #### NLP
+- [Targeted News Crawling and Document Retrieval based on Similarity Scoring](https://github.com/dotsnangles/targeted-news-crawling-and-document-retrieval-based-on-similarity-scoring) (202210)
 - [Auxiliary Sequence Tagger for Causal Relation Extraction](https://github.com/dotsnangles/auxiliary-sequence-tagger-for-causal-relation-extraction) (202210)
 - Aspect-based Sentiment Analysis (on-going competition) (2022100)
 - [NMT with Transformers](https://github.com/dotsnangles/NMT-with-transformers) (202208) (postponed)
