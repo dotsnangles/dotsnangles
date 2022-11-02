@@ -26,18 +26,18 @@
 ### Experiences
 
 #### NLP
-- [Auxiliary Sequence Tagger for Causal Relation Extraction](https://github.com/dotsnangles/auxiliary-sequence-tagger-for-causal-relation-extraction) (20221017-)
-- Aspect-based Sentiment Analysis (on-going competition) (20221004-)
-- [NMT with Transformers](https://github.com/dotsnangles/NMT-with-transformers) (20220801-) (postponed)
-- [Backend API for Chatbot with Poly Encoder](https://github.com/dotsnangles/backend-api-for-chatbot-with-Poly-Encoder) (20220725-28)
-- [Retrieval-based Chatbot with Poly Encoder](https://github.com/dotsnangles/retrieval-based-chatbot-with-Poly-Encoder) (20220701-10)
-- [Poly Encoder](https://github.com/dotsnangles/Poly-Encoder) (20220625-30)
-- [Vanila Transformer Implementation](https://github.com/dotsnangles/vanila-transformer-implementation) (20220620-24)
-- [Text Summarisation with BART](https://github.com/dotsnangles/text-summarisation-with-BART) (20220613-19)
-- [Text Classification with BERT](https://github.com/dotsnangles/text-classification-with-BERT) (20220606-12)
-- [Poetry Generator with GPT2](https://github.com/dotsnangles/poetry-generator-with-GPT2) (202205-06)
+- [Auxiliary Sequence Tagger for Causal Relation Extraction](https://github.com/dotsnangles/auxiliary-sequence-tagger-for-causal-relation-extraction) (202210)
+- Aspect-based Sentiment Analysis (on-going competition) (2022100)
+- [NMT with Transformers](https://github.com/dotsnangles/NMT-with-transformers) (202208) (postponed)
+- [Backend API for Chatbot with Poly Encoder](https://github.com/dotsnangles/backend-api-for-chatbot-with-Poly-Encoder) (202207)
+- [Retrieval-based Chatbot with Poly Encoder](https://github.com/dotsnangles/retrieval-based-chatbot-with-Poly-Encoder) (2022070)
+- [Poly Encoder](https://github.com/dotsnangles/Poly-Encoder) (202206)
+- [Vanila Transformer Implementation](https://github.com/dotsnangles/vanila-transformer-implementation) (202206)
+- [Text Summarisation with BART](https://github.com/dotsnangles/text-summarisation-with-BART) (202206)
+- [Text Classification with BERT](https://github.com/dotsnangles/text-classification-with-BERT) (202206)
+- [Poetry Generator with GPT2](https://github.com/dotsnangles/poetry-generator-with-GPT2) (202205)
 - [LSTM Seq2Seq with Attention](https://github.com/dotsnangles/LSTM-Seq2Seq-with-Attention) (202205)
-- [Text Mining with ML](https://github.com/dotsnangles/text-mining-with-ML) (202203-04)
+- [Text Mining with ML](https://github.com/dotsnangles/text-mining-with-ML) (202204)
 
 #### CV
 - [Object Detection with YOLOv5](https://github.com/dotsnangles/object-detection-with-YOLOv5) (202205)
