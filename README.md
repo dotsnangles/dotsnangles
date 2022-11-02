@@ -28,7 +28,7 @@
 #### NLP
 - [Targeted News Crawling and Document Retrieval based on Similarity Scoring](https://github.com/dotsnangles/targeted-news-crawling-and-document-retrieval-based-on-similarity-scoring) (202211)
 - [Auxiliary Sequence Tagger for Causal Relation Extraction](https://github.com/dotsnangles/auxiliary-sequence-tagger-for-causal-relation-extraction) (202210)
-- Aspect-based Sentiment Analysis (on-going competition) (202210)
+- [Aspect-based Sentiment Analysis](https://github.com/dotsnangles/aspect-based-sentiment-analysis) (202210)
 - [NMT with Transformers](https://github.com/dotsnangles/NMT-with-transformers) (202208) (postponed)
 - [Backend API for Chatbot with Poly Encoder](https://github.com/dotsnangles/backend-api-for-chatbot-with-Poly-Encoder) (202207)
 - [Retrieval-based Chatbot with Poly Encoder](https://github.com/dotsnangles/retrieval-based-chatbot-with-Poly-Encoder) (202207)
