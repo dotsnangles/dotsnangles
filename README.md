@@ -9,7 +9,7 @@
 - working as an ML/DL application developer.
 
 
-### Few Lines for Introduction
+### A Few Lines of Introduction
 
 - I studied Korean Language and Literature at university.
 - Literature and philosophy were my biggest concerns for a long time.
