@@ -15,5 +15,5 @@
 - Literature and philosophy were my biggest concerns for a long time.
 - I am quite good with abstract concepts, and I learn from my own doubts.
 - My priority has been to implement various ML/DL applications to gain experiences in 2022.
-- I plan to understand fundamentals more in 2023.
+- I plan to understand the fundamentals more in 2023.
 - I find myself more creative when I face my vulnerabilities.
